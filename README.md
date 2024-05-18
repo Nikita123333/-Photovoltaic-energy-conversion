@@ -1,1 +1,2 @@
 # -Photovoltaic-energy-conversion
+The task of this project was to design a residential photovoltaic installation for a single-family home. The entire project was completed using the DDScad software. The attached files include a technical description, three cross-sections of the house, a ground floor plan, a first floor plan, a roof plan, a site layout of the house, a module connection diagram, a diagram of the selected project solution, and project information. On the first-floor plan, the three cross-sections are indicated and labeled as AA, BB, and CC.
